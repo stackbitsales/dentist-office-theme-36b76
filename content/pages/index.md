@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Dentist office in West Lake Tahoe
+    title: Placeholder Title for Your Dentist Office
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
